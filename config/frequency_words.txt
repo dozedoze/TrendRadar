@@ -1,8 +1,5 @@
 DeepSeek
 
-英伟达
-NVIDIA
-
 gemini
 
 chatgpt
@@ -16,7 +13,6 @@ ai
 
 美国
 日本
-韩国
 
 稀土
 纳斯达克
